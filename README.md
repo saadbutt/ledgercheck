@@ -23,7 +23,7 @@ amount_anomaly    Warehouse storage at eight times its normal month.
 foreign_currency  A EUR invoice against USD books with no rate printed.
 ```
 
-Python 3.9 or newer.
+Python 3.10 or newer.
 
 ```
 pip install -r requirements.txt
