@@ -1,0 +1,1632 @@
+[
+  {
+    "doc_id": "d001",
+    "file": "documents/d001-meta-2026-01-01.pdf",
+    "doc_type": "ads_invoice",
+    "render": "pdf",
+    "supplier_raw": "META PLATFORMS IRELAND LIMITED",
+    "invoice_number": "FBADS-2026-01-88431",
+    "issue_date": "2026-01-01",
+    "received_date": "2026-01-01",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Advertising services, 2026-01",
+        "quantity": "1",
+        "unit_price": "4218.44",
+        "amount": "4218.44"
+      }
+    ],
+    "subtotal": "4218.44",
+    "tax": "0.00",
+    "total": "4218.44"
+  },
+  {
+    "doc_id": "d002",
+    "file": "documents/d002-google_ads-2026-01-02.pdf",
+    "doc_type": "ads_invoice",
+    "render": "pdf",
+    "supplier_raw": "Google Ireland Limited",
+    "invoice_number": "GGL-552010",
+    "issue_date": "2026-01-02",
+    "received_date": "2026-01-02",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Google Ads, 2026-01",
+        "quantity": "1",
+        "unit_price": "2104.10",
+        "amount": "2104.10"
+      }
+    ],
+    "subtotal": "2104.10",
+    "tax": "0.00",
+    "total": "2104.10"
+  },
+  {
+    "doc_id": "d003",
+    "file": "documents/d003-tiktok_ads-2026-01-03.pdf",
+    "doc_type": "ads_invoice",
+    "render": "pdf",
+    "supplier_raw": "TikTok Information Technologies UK Limited",
+    "invoice_number": "TT-2026-01-0071",
+    "issue_date": "2026-01-03",
+    "received_date": "2026-01-03",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "TikTok Ads, 2026-01",
+        "quantity": "1",
+        "unit_price": "880.00",
+        "amount": "880.00"
+      }
+    ],
+    "subtotal": "880.00",
+    "tax": "0.00",
+    "total": "880.00"
+  },
+  {
+    "doc_id": "d004",
+    "file": "documents/d004-shopify-2026-01-05.pdf",
+    "doc_type": "platform_bill",
+    "render": "pdf",
+    "supplier_raw": "Shopify International Limited",
+    "invoice_number": "SHOP-202601-7741",
+    "issue_date": "2026-01-05",
+    "received_date": "2026-01-05",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Shopify Advanced plan, monthly",
+        "quantity": "1",
+        "unit_price": "399.00",
+        "amount": "399.00"
+      }
+    ],
+    "subtotal": "399.00",
+    "tax": "0.00",
+    "total": "399.00"
+  },
+  {
+    "doc_id": "d005",
+    "file": "documents/d005-pacific_fulfilment-2026-01-06.pdf",
+    "doc_type": "fulfilment_invoice",
+    "render": "pdf",
+    "supplier_raw": "Pacific Fulfilment Partners, Inc.",
+    "invoice_number": "PFP-202601-118",
+    "issue_date": "2026-01-06",
+    "received_date": "2026-01-06",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Pick and pack, per order",
+        "quantity": "1840",
+        "unit_price": "1.35",
+        "amount": "2484.00"
+      },
+      {
+        "description": "Storage, pallet months",
+        "quantity": "1",
+        "unit_price": "420.00",
+        "amount": "420.00"
+      },
+      {
+        "description": "Receiving, per carton",
+        "quantity": "60",
+        "unit_price": "1.10",
+        "amount": "66.00"
+      }
+    ],
+    "subtotal": "2970.00",
+    "tax": "245.02",
+    "total": "3215.02"
+  },
+  {
+    "doc_id": "d006",
+    "file": "documents/d006-klaviyo-2026-01-07.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Klaviyo, Inc.",
+    "invoice_number": "KLV-202601-3312",
+    "issue_date": "2026-01-07",
+    "received_date": "2026-01-07",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Email marketing, monthly plan",
+        "quantity": "1",
+        "unit_price": "45.00",
+        "amount": "45.00"
+      }
+    ],
+    "subtotal": "45.00",
+    "tax": "0.00",
+    "total": "45.00"
+  },
+  {
+    "doc_id": "d007",
+    "file": "documents/d007-gorgias-2026-01-08.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Gorgias Inc",
+    "invoice_number": "GRG-202601",
+    "issue_date": "2026-01-08",
+    "received_date": "2026-01-08",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Helpdesk, Basic plan",
+        "quantity": "1",
+        "unit_price": "60.00",
+        "amount": "60.00"
+      }
+    ],
+    "subtotal": "60.00",
+    "tax": "0.00",
+    "total": "60.00"
+  },
+  {
+    "doc_id": "d008",
+    "file": "documents/d008-canva-2026-01-14.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Canva Pty Ltd",
+    "invoice_number": "CNV-2026-004412",
+    "issue_date": "2026-01-14",
+    "received_date": "2026-01-14",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Canva Teams, annual, 3 seats",
+        "quantity": "3",
+        "unit_price": "100.00",
+        "amount": "300.00"
+      }
+    ],
+    "subtotal": "300.00",
+    "tax": "0.00",
+    "total": "300.00"
+  },
+  {
+    "doc_id": "d009",
+    "file": "documents/d009-figma-2026-01-19.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Figma, Inc.",
+    "invoice_number": "FIG-2026-0119",
+    "issue_date": "2026-01-19",
+    "received_date": "2026-01-19",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Figma Professional, 1 seat",
+        "quantity": "1",
+        "unit_price": "16.00",
+        "amount": "16.00"
+      }
+    ],
+    "subtotal": "16.00",
+    "tax": "0.00",
+    "total": "16.00"
+  },
+  {
+    "doc_id": "d010",
+    "file": "documents/d010-shenzhen_lianhe-2026-01-22.pdf",
+    "doc_type": "supplier_invoice",
+    "render": "pdf",
+    "supplier_raw": "Shenzhen Lianhe Trading Co., Ltd",
+    "invoice_number": "SZLH-PI-26014",
+    "issue_date": "2026-01-22",
+    "received_date": "2026-01-22",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Ceramic vessel, 8oz, matte white (ctn of 48)",
+        "quantity": "40",
+        "unit_price": "182.40",
+        "amount": "7296.00"
+      },
+      {
+        "description": "Lid, bamboo, 8oz (ctn of 96)",
+        "quantity": "20",
+        "unit_price": "76.80",
+        "amount": "1536.00"
+      },
+      {
+        "description": "Printed carton, branded",
+        "quantity": "60",
+        "unit_price": "9.15",
+        "amount": "549.00"
+      }
+    ],
+    "subtotal": "9381.00",
+    "tax": "0.00",
+    "total": "9381.00"
+  },
+  {
+    "doc_id": "d011",
+    "file": "documents/d011-stripe-2026-01-28.pdf",
+    "doc_type": "payout_statement",
+    "render": "pdf",
+    "supplier_raw": "Stripe Payments Company",
+    "invoice_number": "PO-202601-HP",
+    "issue_date": "2026-01-28",
+    "received_date": "2026-01-28",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Processing fees, 2026-01",
+        "quantity": "1",
+        "unit_price": "1486.52",
+        "amount": "1486.52"
+      }
+    ],
+    "subtotal": "1486.52",
+    "tax": "0.00",
+    "total": "1486.52",
+    "statement_figures": {
+      "gross": "48210.33",
+      "refunds": "1204.00",
+      "fees": "1486.52",
+      "net_payout": "45519.81"
+    }
+  },
+  {
+    "doc_id": "d012",
+    "file": "documents/d012-meta-2026-02-01.pdf",
+    "doc_type": "ads_invoice",
+    "render": "pdf",
+    "supplier_raw": "META PLATFORMS IRELAND LIMITED",
+    "invoice_number": "FBADS-2026-02-88431",
+    "issue_date": "2026-02-01",
+    "received_date": "2026-02-01",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Advertising services, 2026-02",
+        "quantity": "1",
+        "unit_price": "5102.90",
+        "amount": "5102.90"
+      }
+    ],
+    "subtotal": "5102.90",
+    "tax": "0.00",
+    "total": "5102.90"
+  },
+  {
+    "doc_id": "d013",
+    "file": "documents/d013-google_ads-2026-02-02.pdf",
+    "doc_type": "ads_invoice",
+    "render": "pdf",
+    "supplier_raw": "Google Ireland Limited",
+    "invoice_number": "GGL-552011",
+    "issue_date": "2026-02-02",
+    "received_date": "2026-02-02",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Google Ads, 2026-02",
+        "quantity": "1",
+        "unit_price": "2390.77",
+        "amount": "2390.77"
+      }
+    ],
+    "subtotal": "2390.77",
+    "tax": "0.00",
+    "total": "2390.77"
+  },
+  {
+    "doc_id": "d014",
+    "file": "documents/d014-tiktok_ads-2026-02-03.pdf",
+    "doc_type": "ads_invoice",
+    "render": "pdf",
+    "supplier_raw": "TikTok Information Technologies UK Limited",
+    "invoice_number": "TT-2026-02-0071",
+    "issue_date": "2026-02-03",
+    "received_date": "2026-02-03",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "TikTok Ads, 2026-02",
+        "quantity": "1",
+        "unit_price": "412.35",
+        "amount": "412.35"
+      }
+    ],
+    "subtotal": "412.35",
+    "tax": "0.00",
+    "total": "412.35"
+  },
+  {
+    "doc_id": "d015",
+    "file": "documents/d015-shopify-2026-02-05.pdf",
+    "doc_type": "platform_bill",
+    "render": "pdf",
+    "supplier_raw": "Shopify International Limited",
+    "invoice_number": "SHOP-202602-7741",
+    "issue_date": "2026-02-05",
+    "received_date": "2026-02-05",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Shopify Advanced plan, monthly",
+        "quantity": "1",
+        "unit_price": "399.00",
+        "amount": "399.00"
+      },
+      {
+        "description": "App charge: Judge.me Reviews",
+        "quantity": "1",
+        "unit_price": "15.00",
+        "amount": "15.00"
+      }
+    ],
+    "subtotal": "414.00",
+    "tax": "0.00",
+    "total": "414.00"
+  },
+  {
+    "doc_id": "d016",
+    "file": "documents/d016-pacific_fulfilment-2026-02-06.pdf",
+    "doc_type": "fulfilment_invoice",
+    "render": "pdf",
+    "supplier_raw": "Pacific Fulfilment Partners, Inc.",
+    "invoice_number": "PFP-202602-118",
+    "issue_date": "2026-02-06",
+    "received_date": "2026-02-06",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Pick and pack, per order",
+        "quantity": "2110",
+        "unit_price": "1.35",
+        "amount": "2848.50"
+      },
+      {
+        "description": "Storage, pallet months",
+        "quantity": "1",
+        "unit_price": "455.00",
+        "amount": "455.00"
+      },
+      {
+        "description": "Receiving, per carton",
+        "quantity": "60",
+        "unit_price": "1.10",
+        "amount": "66.00"
+      }
+    ],
+    "subtotal": "3369.50",
+    "tax": "277.98",
+    "total": "3647.48"
+  },
+  {
+    "doc_id": "d017",
+    "file": "documents/d017-klaviyo-2026-02-07.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Klaviyo, Inc.",
+    "invoice_number": "KLV-202602-3312",
+    "issue_date": "2026-02-07",
+    "received_date": "2026-02-07",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Email marketing, monthly plan",
+        "quantity": "1",
+        "unit_price": "45.00",
+        "amount": "45.00"
+      }
+    ],
+    "subtotal": "45.00",
+    "tax": "0.00",
+    "total": "45.00"
+  },
+  {
+    "doc_id": "d018",
+    "file": "documents/d018-gorgias-2026-02-08.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Gorgias Inc",
+    "invoice_number": "GRG-202602",
+    "issue_date": "2026-02-08",
+    "received_date": "2026-02-08",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Helpdesk, Basic plan",
+        "quantity": "1",
+        "unit_price": "60.00",
+        "amount": "60.00"
+      }
+    ],
+    "subtotal": "60.00",
+    "tax": "0.00",
+    "total": "60.00"
+  },
+  {
+    "doc_id": "d019",
+    "file": "documents/d019-loom-2026-02-09.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Loom, Inc.",
+    "invoice_number": "LOOM-202602",
+    "issue_date": "2026-02-09",
+    "received_date": "2026-02-09",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Loom Business, 2 seats",
+        "quantity": "2",
+        "unit_price": "15.00",
+        "amount": "30.00"
+      }
+    ],
+    "subtotal": "30.00",
+    "tax": "0.00",
+    "total": "30.00"
+  },
+  {
+    "doc_id": "d020",
+    "file": "documents/d020-dhl-2026-02-11.pdf",
+    "doc_type": "freight_invoice",
+    "render": "pdf",
+    "supplier_raw": "DHL Express (USA), Inc.",
+    "invoice_number": "DHL-EX-774120",
+    "issue_date": "2026-02-11",
+    "received_date": "2026-02-11",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Air freight, SZX to PDX, consolidated",
+        "quantity": "1",
+        "unit_price": "1842.60",
+        "amount": "1842.60"
+      },
+      {
+        "description": "Fuel surcharge",
+        "quantity": "1",
+        "unit_price": "340.88",
+        "amount": "340.88"
+      }
+    ],
+    "subtotal": "2183.48",
+    "tax": "0.00",
+    "total": "2183.48"
+  },
+  {
+    "doc_id": "d021",
+    "file": "documents/d021-mercer_hale-2026-02-14.jpg",
+    "doc_type": "duty_invoice",
+    "render": "scan",
+    "supplier_raw": "Mercer & Hale Customs Brokers LLC",
+    "invoice_number": "USCB-44120",
+    "issue_date": "2026-02-14",
+    "received_date": "2026-02-14",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Estimated duty, HTS 6912.00.4810",
+        "quantity": "1",
+        "unit_price": "3104.22",
+        "amount": "3104.22"
+      },
+      {
+        "description": "Merchandise processing fee",
+        "quantity": "1",
+        "unit_price": "88.40",
+        "amount": "88.40"
+      },
+      {
+        "description": "Customs brokerage, entry preparation",
+        "quantity": "1",
+        "unit_price": "165.00",
+        "amount": "165.00"
+      }
+    ],
+    "subtotal": "3357.62",
+    "tax": "0.00",
+    "total": "3357.62"
+  },
+  {
+    "doc_id": "d022",
+    "file": "documents/d022-stripe-2026-02-28.pdf",
+    "doc_type": "payout_statement",
+    "render": "pdf",
+    "supplier_raw": "Stripe Payments Company",
+    "invoice_number": "PO-202602-HP",
+    "issue_date": "2026-02-28",
+    "received_date": "2026-02-28",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Processing fees, 2026-02",
+        "quantity": "1",
+        "unit_price": "1632.09",
+        "amount": "1632.09"
+      }
+    ],
+    "subtotal": "1632.09",
+    "tax": "0.00",
+    "total": "1632.09",
+    "statement_figures": {
+      "gross": "52998.71",
+      "refunds": "1890.45",
+      "fees": "1632.09",
+      "net_payout": "49476.17"
+    }
+  },
+  {
+    "doc_id": "d023",
+    "file": "documents/d023-meta-2026-03-01.pdf",
+    "doc_type": "ads_invoice",
+    "render": "pdf",
+    "supplier_raw": "Meta Platforms Ireland Ltd.",
+    "invoice_number": "FBADS-2026-03-88431",
+    "issue_date": "2026-03-01",
+    "received_date": "2026-03-01",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Advertising services, 2026-03",
+        "quantity": "1",
+        "unit_price": "6744.12",
+        "amount": "6744.12"
+      }
+    ],
+    "subtotal": "6744.12",
+    "tax": "0.00",
+    "total": "6744.12"
+  },
+  {
+    "doc_id": "d024",
+    "file": "documents/d024-google_ads-2026-03-02.pdf",
+    "doc_type": "ads_invoice",
+    "render": "pdf",
+    "supplier_raw": "Google Ireland Limited",
+    "invoice_number": "GGL-552012",
+    "issue_date": "2026-03-02",
+    "received_date": "2026-03-02",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Google Ads, 2026-03",
+        "quantity": "1",
+        "unit_price": "2855.40",
+        "amount": "2855.40"
+      }
+    ],
+    "subtotal": "2855.40",
+    "tax": "0.00",
+    "total": "2855.40"
+  },
+  {
+    "doc_id": "d025",
+    "file": "documents/d025-shopify-2026-03-05.pdf",
+    "doc_type": "platform_bill",
+    "render": "pdf",
+    "supplier_raw": "Shopify International Limited",
+    "invoice_number": "SHOP-202603-7741",
+    "issue_date": "2026-03-05",
+    "received_date": "2026-03-05",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Shopify Advanced plan, monthly",
+        "quantity": "1",
+        "unit_price": "399.00",
+        "amount": "399.00"
+      },
+      {
+        "description": "App charge: Judge.me Reviews",
+        "quantity": "1",
+        "unit_price": "15.00",
+        "amount": "15.00"
+      }
+    ],
+    "subtotal": "414.00",
+    "tax": "0.00",
+    "total": "414.00"
+  },
+  {
+    "doc_id": "d026",
+    "file": "documents/d026-pacific_fulfilment-2026-03-06.pdf",
+    "doc_type": "fulfilment_invoice",
+    "render": "pdf",
+    "supplier_raw": "Pacific Fulfilment Partners, Inc.",
+    "invoice_number": "PFP-202603-118",
+    "issue_date": "2026-03-06",
+    "received_date": "2026-03-06",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Pick and pack, per order",
+        "quantity": "2605",
+        "unit_price": "1.35",
+        "amount": "3516.75"
+      },
+      {
+        "description": "Storage, pallet months",
+        "quantity": "1",
+        "unit_price": "488.00",
+        "amount": "488.00"
+      },
+      {
+        "description": "Receiving, per carton",
+        "quantity": "60",
+        "unit_price": "1.10",
+        "amount": "66.00"
+      }
+    ],
+    "subtotal": "4070.75",
+    "tax": "335.84",
+    "total": "4406.59"
+  },
+  {
+    "doc_id": "d027",
+    "file": "documents/d027-klaviyo-2026-03-07.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Klaviyo, Inc.",
+    "invoice_number": "KLV-202603-3312",
+    "issue_date": "2026-03-07",
+    "received_date": "2026-03-07",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Email marketing, monthly plan",
+        "quantity": "1",
+        "unit_price": "45.00",
+        "amount": "45.00"
+      }
+    ],
+    "subtotal": "45.00",
+    "tax": "0.00",
+    "total": "45.00"
+  },
+  {
+    "doc_id": "d028",
+    "file": "documents/d028-gorgias-2026-03-08.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Gorgias Inc",
+    "invoice_number": "GRG-202603",
+    "issue_date": "2026-03-08",
+    "received_date": "2026-03-08",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Helpdesk, Basic plan",
+        "quantity": "1",
+        "unit_price": "60.00",
+        "amount": "60.00"
+      }
+    ],
+    "subtotal": "60.00",
+    "tax": "0.00",
+    "total": "60.00"
+  },
+  {
+    "doc_id": "d029",
+    "file": "documents/d029-loom-2026-03-09.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Loom, Inc.",
+    "invoice_number": "LOOM-202603",
+    "issue_date": "2026-03-09",
+    "received_date": "2026-03-09",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Loom Business, 2 seats",
+        "quantity": "2",
+        "unit_price": "15.00",
+        "amount": "30.00"
+      }
+    ],
+    "subtotal": "30.00",
+    "tax": "0.00",
+    "total": "30.00"
+  },
+  {
+    "doc_id": "d030",
+    "file": "documents/d030-cera_lusitana-2026-03-17.pdf",
+    "doc_type": "supplier_invoice",
+    "render": "pdf",
+    "supplier_raw": "Cera Lusitana Unipessoal Lda",
+    "invoice_number": "CL-2026-0188",
+    "issue_date": "2026-03-17",
+    "received_date": "2026-03-17",
+    "currency": "EUR",
+    "line_items": [
+      {
+        "description": "Soy wax blend C-3, 25kg sack",
+        "quantity": "48",
+        "unit_price": "41.50",
+        "amount": "1992.00"
+      },
+      {
+        "description": "Cotton wick, CD-18, spool",
+        "quantity": "12",
+        "unit_price": "23.75",
+        "amount": "285.00"
+      }
+    ],
+    "subtotal": "2277.00",
+    "tax": "0.00",
+    "total": "2277.00"
+  },
+  {
+    "doc_id": "d031",
+    "file": "documents/d031-creator_nadia_okonkwo-2026-03-24.pdf",
+    "doc_type": "creator_invoice",
+    "render": "pdf",
+    "supplier_raw": "Nadia Okonkwo",
+    "invoice_number": "INV-004",
+    "issue_date": "2026-03-24",
+    "received_date": "2026-03-24",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "UGC package, 3 videos, 1 round of edits",
+        "quantity": "1",
+        "unit_price": "900.00",
+        "amount": "900.00"
+      },
+      {
+        "description": "Usage rights, paid social, 90 days",
+        "quantity": "1",
+        "unit_price": "300.00",
+        "amount": "300.00"
+      }
+    ],
+    "subtotal": "1200.00",
+    "tax": "0.00",
+    "total": "1200.00"
+  },
+  {
+    "doc_id": "d032",
+    "file": "documents/d032-stripe-2026-03-28.pdf",
+    "doc_type": "payout_statement",
+    "render": "pdf",
+    "supplier_raw": "Stripe Payments Company",
+    "invoice_number": "PO-202603-HP",
+    "issue_date": "2026-03-28",
+    "received_date": "2026-03-28",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Processing fees, 2026-03",
+        "quantity": "1",
+        "unit_price": "1884.77",
+        "amount": "1884.77"
+      }
+    ],
+    "subtotal": "1884.77",
+    "tax": "0.00",
+    "total": "1884.77",
+    "statement_figures": {
+      "gross": "61440.18",
+      "refunds": "2201.80",
+      "fees": "1884.77",
+      "net_payout": "57353.61"
+    }
+  },
+  {
+    "doc_id": "d033",
+    "file": "documents/d033-meta-2026-04-01.pdf",
+    "doc_type": "ads_invoice",
+    "render": "pdf",
+    "supplier_raw": "Meta Platforms Ireland Ltd.",
+    "invoice_number": "FBADS-2026-04-88431",
+    "issue_date": "2026-04-01",
+    "received_date": "2026-04-01",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Advertising services, 2026-04",
+        "quantity": "1",
+        "unit_price": "3980.55",
+        "amount": "3980.55"
+      }
+    ],
+    "subtotal": "3980.55",
+    "tax": "0.00",
+    "total": "3980.55"
+  },
+  {
+    "doc_id": "d034",
+    "file": "documents/d034-google_ads-2026-04-02.pdf",
+    "doc_type": "ads_invoice",
+    "render": "pdf",
+    "supplier_raw": "Google Ireland Limited",
+    "invoice_number": "GGL-552013",
+    "issue_date": "2026-04-02",
+    "received_date": "2026-04-02",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Google Ads, 2026-04",
+        "quantity": "1",
+        "unit_price": "2011.09",
+        "amount": "2011.09"
+      }
+    ],
+    "subtotal": "2011.09",
+    "tax": "0.00",
+    "total": "2011.09"
+  },
+  {
+    "doc_id": "d035",
+    "file": "documents/d035-shopify-2026-04-05.pdf",
+    "doc_type": "platform_bill",
+    "render": "pdf",
+    "supplier_raw": "Shopify International Limited",
+    "invoice_number": "SHOP-202604-7741",
+    "issue_date": "2026-04-05",
+    "received_date": "2026-04-05",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Shopify Advanced plan, monthly",
+        "quantity": "1",
+        "unit_price": "399.00",
+        "amount": "399.00"
+      },
+      {
+        "description": "App charge: Judge.me Reviews",
+        "quantity": "1",
+        "unit_price": "15.00",
+        "amount": "15.00"
+      },
+      {
+        "description": "App charge: Recharge Subscriptions",
+        "quantity": "1",
+        "unit_price": "99.00",
+        "amount": "99.00"
+      }
+    ],
+    "subtotal": "513.00",
+    "tax": "0.00",
+    "total": "513.00"
+  },
+  {
+    "doc_id": "d036",
+    "file": "documents/d036-pacific_fulfilment-2026-04-06.pdf",
+    "doc_type": "fulfilment_invoice",
+    "render": "pdf",
+    "supplier_raw": "Pacific Fulfilment Partners, Inc.",
+    "invoice_number": "PFP-202604-118",
+    "issue_date": "2026-04-06",
+    "received_date": "2026-04-06",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Pick and pack, per order",
+        "quantity": "1990",
+        "unit_price": "1.35",
+        "amount": "2686.50"
+      },
+      {
+        "description": "Storage, pallet months",
+        "quantity": "1",
+        "unit_price": "502.00",
+        "amount": "502.00"
+      },
+      {
+        "description": "Receiving, per carton",
+        "quantity": "60",
+        "unit_price": "1.10",
+        "amount": "66.00"
+      }
+    ],
+    "subtotal": "3254.50",
+    "tax": "268.50",
+    "total": "3523.00"
+  },
+  {
+    "doc_id": "d037",
+    "file": "documents/d037-klaviyo-2026-04-07.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Klaviyo, Inc.",
+    "invoice_number": "KLV-202604-3312",
+    "issue_date": "2026-04-07",
+    "received_date": "2026-04-07",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Email marketing, monthly plan",
+        "quantity": "1",
+        "unit_price": "120.00",
+        "amount": "120.00"
+      }
+    ],
+    "subtotal": "120.00",
+    "tax": "0.00",
+    "total": "120.00"
+  },
+  {
+    "doc_id": "d038",
+    "file": "documents/d038-gorgias-2026-04-08.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Gorgias Inc",
+    "invoice_number": "GRG-202604",
+    "issue_date": "2026-04-08",
+    "received_date": "2026-04-08",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Helpdesk, Basic plan",
+        "quantity": "1",
+        "unit_price": "60.00",
+        "amount": "60.00"
+      }
+    ],
+    "subtotal": "60.00",
+    "tax": "0.00",
+    "total": "60.00"
+  },
+  {
+    "doc_id": "d039",
+    "file": "documents/d039-loom-2026-04-09.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Loom, Inc.",
+    "invoice_number": "LOOM-202604",
+    "issue_date": "2026-04-09",
+    "received_date": "2026-04-09",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Loom Business, 2 seats",
+        "quantity": "2",
+        "unit_price": "15.00",
+        "amount": "30.00"
+      }
+    ],
+    "subtotal": "30.00",
+    "tax": "0.00",
+    "total": "30.00"
+  },
+  {
+    "doc_id": "d040",
+    "file": "documents/d040-shenzhen_lianhe-2026-04-09.pdf",
+    "doc_type": "supplier_invoice",
+    "render": "pdf",
+    "supplier_raw": "Shenzhen Lianhe Trading Co., Ltd",
+    "invoice_number": "SZLH-PI-26037",
+    "issue_date": "2026-04-09",
+    "received_date": "2026-04-09",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Ceramic vessel, 8oz, matte white (ctn of 48)",
+        "quantity": "55",
+        "unit_price": "182.40",
+        "amount": "10032.00"
+      },
+      {
+        "description": "Ceramic vessel, 12oz, sand (ctn of 36)",
+        "quantity": "25",
+        "unit_price": "214.20",
+        "amount": "5355.00"
+      },
+      {
+        "description": "Lid, bamboo, assorted (ctn of 96)",
+        "quantity": "30",
+        "unit_price": "76.80",
+        "amount": "2304.00"
+      }
+    ],
+    "subtotal": "17691.00",
+    "tax": "0.00",
+    "total": "17691.00"
+  },
+  {
+    "doc_id": "d041",
+    "file": "documents/d041-recharge-2026-04-11.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Recharge Payments, Inc.",
+    "invoice_number": "RCH-20260411",
+    "issue_date": "2026-04-11",
+    "received_date": "2026-04-11",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Recharge Subscriptions, Standard",
+        "quantity": "1",
+        "unit_price": "99.00",
+        "amount": "99.00"
+      }
+    ],
+    "subtotal": "99.00",
+    "tax": "0.00",
+    "total": "99.00"
+  },
+  {
+    "doc_id": "d042",
+    "file": "documents/d042-dhl-2026-04-15.pdf",
+    "doc_type": "freight_invoice",
+    "render": "pdf",
+    "supplier_raw": "DHL Express (USA), Inc.",
+    "invoice_number": "DHL-EX-781004",
+    "issue_date": "2026-04-15",
+    "received_date": "2026-04-15",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Air freight, SZX to PDX, consolidated",
+        "quantity": "1",
+        "unit_price": "2210.85",
+        "amount": "2210.85"
+      },
+      {
+        "description": "Fuel surcharge",
+        "quantity": "1",
+        "unit_price": "409.01",
+        "amount": "409.01"
+      }
+    ],
+    "subtotal": "2619.86",
+    "tax": "0.00",
+    "total": "2619.86"
+  },
+  {
+    "doc_id": "d043",
+    "file": "documents/d043-mercer_hale-2026-04-18.pdf",
+    "doc_type": "duty_invoice",
+    "render": "pdf",
+    "supplier_raw": "Mercer & Hale Customs Brokers LLC",
+    "invoice_number": "USCB-45077",
+    "issue_date": "2026-04-18",
+    "received_date": "2026-04-18",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Estimated duty, HTS 6912.00.4810",
+        "quantity": "1",
+        "unit_price": "3870.15",
+        "amount": "3870.15"
+      },
+      {
+        "description": "Merchandise processing fee",
+        "quantity": "1",
+        "unit_price": "102.75",
+        "amount": "102.75"
+      },
+      {
+        "description": "Customs brokerage, entry preparation",
+        "quantity": "1",
+        "unit_price": "165.00",
+        "amount": "165.00"
+      }
+    ],
+    "subtotal": "4137.90",
+    "tax": "0.00",
+    "total": "4137.90"
+  },
+  {
+    "doc_id": "d044",
+    "file": "documents/d044-stripe-2026-04-28.pdf",
+    "doc_type": "payout_statement",
+    "render": "pdf",
+    "supplier_raw": "Stripe Payments Company",
+    "invoice_number": "PO-202604-HP",
+    "issue_date": "2026-04-28",
+    "received_date": "2026-04-28",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Processing fees, 2026-04",
+        "quantity": "1",
+        "unit_price": "1451.06",
+        "amount": "1451.06"
+      }
+    ],
+    "subtotal": "1451.06",
+    "tax": "0.00",
+    "total": "1451.06",
+    "statement_figures": {
+      "gross": "47115.62",
+      "refunds": "1455.20",
+      "fees": "1451.06",
+      "net_payout": "44209.36"
+    }
+  },
+  {
+    "doc_id": "d045",
+    "file": "documents/d045-meta-2026-05-01.pdf",
+    "doc_type": "ads_invoice",
+    "render": "pdf",
+    "supplier_raw": "META PLATFORMS IRELAND LTD",
+    "invoice_number": "FBADS-2026-05-88431",
+    "issue_date": "2026-05-01",
+    "received_date": "2026-05-01",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Advertising services, 2026-05",
+        "quantity": "1",
+        "unit_price": "7221.08",
+        "amount": "7221.08"
+      }
+    ],
+    "subtotal": "7221.08",
+    "tax": "0.00",
+    "total": "7221.08"
+  },
+  {
+    "doc_id": "d046",
+    "file": "documents/d046-google_ads-2026-05-02.pdf",
+    "doc_type": "ads_invoice",
+    "render": "pdf",
+    "supplier_raw": "Google Ireland Limited",
+    "invoice_number": "GGL-552014",
+    "issue_date": "2026-05-02",
+    "received_date": "2026-05-02",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Google Ads, 2026-05",
+        "quantity": "1",
+        "unit_price": "3302.66",
+        "amount": "3302.66"
+      }
+    ],
+    "subtotal": "3302.66",
+    "tax": "0.00",
+    "total": "3302.66"
+  },
+  {
+    "doc_id": "d047",
+    "file": "documents/d047-meta-2026-03-01.pdf",
+    "doc_type": "ads_invoice",
+    "render": "pdf",
+    "supplier_raw": "Meta Platforms Ireland Ltd.",
+    "invoice_number": "FBADS-2026-03-88431",
+    "issue_date": "2026-03-01",
+    "received_date": "2026-05-02",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Advertising services, 2026-03",
+        "quantity": "1",
+        "unit_price": "6744.12",
+        "amount": "6744.12"
+      }
+    ],
+    "subtotal": "6744.12",
+    "tax": "0.00",
+    "total": "6744.12"
+  },
+  {
+    "doc_id": "d048",
+    "file": "documents/d048-shopify-2026-05-05.pdf",
+    "doc_type": "platform_bill",
+    "render": "pdf",
+    "supplier_raw": "Shopify International Limited",
+    "invoice_number": "SHOP-202605-7741",
+    "issue_date": "2026-05-05",
+    "received_date": "2026-05-05",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Shopify Advanced plan, monthly",
+        "quantity": "1",
+        "unit_price": "399.00",
+        "amount": "399.00"
+      },
+      {
+        "description": "App charge: Judge.me Reviews",
+        "quantity": "1",
+        "unit_price": "15.00",
+        "amount": "15.00"
+      }
+    ],
+    "subtotal": "414.00",
+    "tax": "0.00",
+    "total": "414.00"
+  },
+  {
+    "doc_id": "d049",
+    "file": "documents/d049-dhl-2026-05-06.pdf",
+    "doc_type": "credit_note",
+    "render": "pdf",
+    "supplier_raw": "DHL Express (USA), Inc.",
+    "invoice_number": "DHL-CN-781004-R",
+    "issue_date": "2026-05-06",
+    "received_date": "2026-05-06",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Credit: re-weigh adjustment on DHL-EX-781004",
+        "quantity": "1",
+        "unit_price": "-318.40",
+        "amount": "-318.40"
+      }
+    ],
+    "subtotal": "-318.40",
+    "tax": "0.00",
+    "total": "-318.40"
+  },
+  {
+    "doc_id": "d050",
+    "file": "documents/d050-pacific_fulfilment-2026-05-06.pdf",
+    "doc_type": "fulfilment_invoice",
+    "render": "pdf",
+    "supplier_raw": "Pacific Fulfilment Partners, Inc.",
+    "invoice_number": "PFP-202605-118",
+    "issue_date": "2026-05-06",
+    "received_date": "2026-05-06",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Pick and pack, per order",
+        "quantity": "2402",
+        "unit_price": "1.35",
+        "amount": "3242.70"
+      },
+      {
+        "description": "Storage, pallet months",
+        "quantity": "1",
+        "unit_price": "4100.00",
+        "amount": "4100.00"
+      },
+      {
+        "description": "Receiving, per carton",
+        "quantity": "60",
+        "unit_price": "1.10",
+        "amount": "66.00"
+      }
+    ],
+    "subtotal": "7408.70",
+    "tax": "611.22",
+    "total": "8019.92"
+  },
+  {
+    "doc_id": "d051",
+    "file": "documents/d051-klaviyo-2026-05-07.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Klaviyo, Inc.",
+    "invoice_number": "KLV-202605-3312",
+    "issue_date": "2026-05-07",
+    "received_date": "2026-05-07",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Email marketing, monthly plan",
+        "quantity": "1",
+        "unit_price": "120.00",
+        "amount": "120.00"
+      }
+    ],
+    "subtotal": "120.00",
+    "tax": "0.00",
+    "total": "120.00"
+  },
+  {
+    "doc_id": "d052",
+    "file": "documents/d052-gorgias-2026-05-08.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Gorgias Inc",
+    "invoice_number": "GRG-202605",
+    "issue_date": "2026-05-08",
+    "received_date": "2026-05-08",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Helpdesk, Basic plan",
+        "quantity": "1",
+        "unit_price": "60.00",
+        "amount": "60.00"
+      }
+    ],
+    "subtotal": "60.00",
+    "tax": "0.00",
+    "total": "60.00"
+  },
+  {
+    "doc_id": "d053",
+    "file": "documents/d053-loom-2026-05-09.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Loom, Inc.",
+    "invoice_number": "LOOM-202605",
+    "issue_date": "2026-05-09",
+    "received_date": "2026-05-09",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Loom Business, 2 seats",
+        "quantity": "2",
+        "unit_price": "15.00",
+        "amount": "30.00"
+      }
+    ],
+    "subtotal": "30.00",
+    "tax": "0.00",
+    "total": "30.00"
+  },
+  {
+    "doc_id": "d054",
+    "file": "documents/d054-creator_brightside-2026-05-19.pdf",
+    "doc_type": "creator_invoice",
+    "render": "pdf",
+    "supplier_raw": "BRIGHTSIDE STUDIO (sole trader: T. Vasquez)",
+    "invoice_number": "2026-11",
+    "issue_date": "2026-05-19",
+    "received_date": "2026-05-19",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Photography, product refresh, 24 assets",
+        "quantity": "1",
+        "unit_price": "1450.00",
+        "amount": "1450.00"
+      }
+    ],
+    "subtotal": "1450.00",
+    "tax": "0.00",
+    "total": "1450.00"
+  },
+  {
+    "doc_id": "d055",
+    "file": "documents/d055-stripe-2026-05-28.pdf",
+    "doc_type": "payout_statement",
+    "render": "pdf",
+    "supplier_raw": "Stripe Payments Company",
+    "invoice_number": "PO-202605-HP",
+    "issue_date": "2026-05-28",
+    "received_date": "2026-05-28",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Processing fees, 2026-05",
+        "quantity": "1",
+        "unit_price": "2127.44",
+        "amount": "2127.44"
+      }
+    ],
+    "subtotal": "2127.44",
+    "tax": "0.00",
+    "total": "2127.44",
+    "statement_figures": {
+      "gross": "69302.55",
+      "refunds": "3010.65",
+      "fees": "2127.44",
+      "net_payout": "64164.46"
+    }
+  },
+  {
+    "doc_id": "d056",
+    "file": "documents/d056-meta-2026-06-01.pdf",
+    "doc_type": "ads_invoice",
+    "render": "pdf",
+    "supplier_raw": "META PLATFORMS IRELAND LTD",
+    "invoice_number": "FBADS-2026-06-88431",
+    "issue_date": "2026-06-01",
+    "received_date": "2026-06-01",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Advertising services, 2026-06",
+        "quantity": "1",
+        "unit_price": "6015.73",
+        "amount": "6015.73"
+      }
+    ],
+    "subtotal": "6015.73",
+    "tax": "0.00",
+    "total": "6015.73"
+  },
+  {
+    "doc_id": "d057",
+    "file": "documents/d057-google_ads-2026-06-02.pdf",
+    "doc_type": "ads_invoice",
+    "render": "pdf",
+    "supplier_raw": "Google Ireland Limited",
+    "invoice_number": "GGL-552015",
+    "issue_date": "2026-06-02",
+    "received_date": "2026-06-02",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Google Ads, 2026-06",
+        "quantity": "1",
+        "unit_price": "2944.18",
+        "amount": "2944.18"
+      }
+    ],
+    "subtotal": "2944.18",
+    "tax": "0.00",
+    "total": "2944.18"
+  },
+  {
+    "doc_id": "d058",
+    "file": "documents/d058-shopify-2026-06-05.pdf",
+    "doc_type": "platform_bill",
+    "render": "pdf",
+    "supplier_raw": "Shopify International Limited",
+    "invoice_number": "SHOP-202606-7741",
+    "issue_date": "2026-06-05",
+    "received_date": "2026-06-05",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Shopify Advanced plan, monthly",
+        "quantity": "1",
+        "unit_price": "399.00",
+        "amount": "399.00"
+      },
+      {
+        "description": "App charge: Judge.me Reviews",
+        "quantity": "1",
+        "unit_price": "15.00",
+        "amount": "15.00"
+      }
+    ],
+    "subtotal": "414.00",
+    "tax": "0.00",
+    "total": "414.00"
+  },
+  {
+    "doc_id": "d059",
+    "file": "documents/d059-pacific_fulfilment-2026-06-06.pdf",
+    "doc_type": "fulfilment_invoice",
+    "render": "pdf",
+    "supplier_raw": "Pacific Fulfilment Partners, Inc.",
+    "invoice_number": "PFP-202606-118",
+    "issue_date": "2026-06-06",
+    "received_date": "2026-06-06",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Pick and pack, per order",
+        "quantity": "2755",
+        "unit_price": "1.35",
+        "amount": "3719.25"
+      },
+      {
+        "description": "Storage, pallet months",
+        "quantity": "1",
+        "unit_price": "531.00",
+        "amount": "531.00"
+      },
+      {
+        "description": "Receiving, per carton",
+        "quantity": "60",
+        "unit_price": "1.10",
+        "amount": "66.00"
+      }
+    ],
+    "subtotal": "4316.25",
+    "tax": "356.09",
+    "total": "4672.34"
+  },
+  {
+    "doc_id": "d060",
+    "file": "documents/d060-klaviyo-2026-06-07.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Klaviyo, Inc.",
+    "invoice_number": "KLV-202606-3312",
+    "issue_date": "2026-06-07",
+    "received_date": "2026-06-07",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Email marketing, monthly plan",
+        "quantity": "1",
+        "unit_price": "120.00",
+        "amount": "120.00"
+      }
+    ],
+    "subtotal": "120.00",
+    "tax": "0.00",
+    "total": "120.00"
+  },
+  {
+    "doc_id": "d061",
+    "file": "documents/d061-gorgias-2026-06-08.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Gorgias Inc",
+    "invoice_number": "GRG-202606",
+    "issue_date": "2026-06-08",
+    "received_date": "2026-06-08",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Helpdesk, Basic plan",
+        "quantity": "1",
+        "unit_price": "60.00",
+        "amount": "60.00"
+      }
+    ],
+    "subtotal": "60.00",
+    "tax": "0.00",
+    "total": "60.00"
+  },
+  {
+    "doc_id": "d062",
+    "file": "documents/d062-loom-2026-06-09.pdf",
+    "doc_type": "saas_receipt",
+    "render": "pdf",
+    "supplier_raw": "Loom, Inc.",
+    "invoice_number": "LOOM-202606",
+    "issue_date": "2026-06-09",
+    "received_date": "2026-06-09",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Loom Business, 2 seats",
+        "quantity": "2",
+        "unit_price": "15.00",
+        "amount": "30.00"
+      }
+    ],
+    "subtotal": "30.00",
+    "tax": "0.00",
+    "total": "30.00"
+  },
+  {
+    "doc_id": "d063",
+    "file": "documents/d063-dhl-2026-06-12.pdf",
+    "doc_type": "freight_invoice",
+    "render": "pdf",
+    "supplier_raw": "DHL Express (USA), Inc.",
+    "invoice_number": "DHL-EX-790331",
+    "issue_date": "2026-06-12",
+    "received_date": "2026-06-12",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Air freight, SZX to PDX, consolidated",
+        "quantity": "1",
+        "unit_price": "1655.40",
+        "amount": "1655.40"
+      },
+      {
+        "description": "Fuel surcharge",
+        "quantity": "1",
+        "unit_price": "306.25",
+        "amount": "306.25"
+      }
+    ],
+    "subtotal": "1961.65",
+    "tax": "0.00",
+    "total": "1961.65"
+  },
+  {
+    "doc_id": "d064",
+    "file": "documents/d064-stripe-2026-06-28.pdf",
+    "doc_type": "payout_statement",
+    "render": "pdf",
+    "supplier_raw": "Stripe Payments Company",
+    "invoice_number": "PO-202606-HP",
+    "issue_date": "2026-06-28",
+    "received_date": "2026-06-28",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Processing fees, 2026-06",
+        "quantity": "1",
+        "unit_price": "1992.18",
+        "amount": "1992.18"
+      }
+    ],
+    "subtotal": "1992.18",
+    "tax": "0.00",
+    "total": "1992.18",
+    "statement_figures": {
+      "gross": "64877.90",
+      "refunds": "2244.10",
+      "fees": "1992.18",
+      "net_payout": "60641.62"
+    }
+  }
+]

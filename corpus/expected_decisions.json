@@ -1,0 +1,558 @@
+[
+  {
+    "doc_id": "d001",
+    "supplier_canonical": "meta",
+    "category": "advertising",
+    "bookable_amount": "4218.44",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d002",
+    "supplier_canonical": "google_ads",
+    "category": "advertising",
+    "bookable_amount": "2104.10",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d003",
+    "supplier_canonical": "tiktok_ads",
+    "category": "advertising",
+    "bookable_amount": "880.00",
+    "bookable_currency": "USD",
+    "anomalies": [],
+    "why": "Spend stops after February. Nothing is wrong with this. It is a control: a system that calls every disappearance an anomaly should lose points here."
+  },
+  {
+    "doc_id": "d004",
+    "supplier_canonical": "shopify",
+    "category": "platform_fees",
+    "bookable_amount": "399.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d005",
+    "supplier_canonical": "pacific_fulfilment",
+    "category": "fulfilment",
+    "bookable_amount": "3215.02",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d006",
+    "supplier_canonical": "klaviyo",
+    "category": "software",
+    "bookable_amount": "45.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d007",
+    "supplier_canonical": "gorgias",
+    "category": "software",
+    "bookable_amount": "60.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d008",
+    "supplier_canonical": "canva",
+    "category": "software",
+    "bookable_amount": "300.00",
+    "bookable_currency": "USD",
+    "anomalies": [],
+    "why": "Annual, so it appears once. A system that expects monthly cadence should not call the other five months missing."
+  },
+  {
+    "doc_id": "d009",
+    "supplier_canonical": "figma",
+    "category": "software",
+    "bookable_amount": "16.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d010",
+    "supplier_canonical": "shenzhen_lianhe",
+    "category": "cogs",
+    "bookable_amount": "9381.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d011",
+    "supplier_canonical": "stripe",
+    "category": "processor_fees",
+    "bookable_amount": "1486.52",
+    "bookable_currency": "USD",
+    "anomalies": [
+      "netted_statement"
+    ],
+    "why": "Only the fee belongs in the books. Gross and payout are on the page and are both larger."
+  },
+  {
+    "doc_id": "d012",
+    "supplier_canonical": "meta",
+    "category": "advertising",
+    "bookable_amount": "5102.90",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d013",
+    "supplier_canonical": "google_ads",
+    "category": "advertising",
+    "bookable_amount": "2390.77",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d014",
+    "supplier_canonical": "tiktok_ads",
+    "category": "advertising",
+    "bookable_amount": "412.35",
+    "bookable_currency": "USD",
+    "anomalies": [],
+    "why": "Spend stops after February. Nothing is wrong with this. It is a control: a system that calls every disappearance an anomaly should lose points here."
+  },
+  {
+    "doc_id": "d015",
+    "supplier_canonical": "shopify",
+    "category": "platform_fees",
+    "bookable_amount": "414.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d016",
+    "supplier_canonical": "pacific_fulfilment",
+    "category": "fulfilment",
+    "bookable_amount": "3647.48",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d017",
+    "supplier_canonical": "klaviyo",
+    "category": "software",
+    "bookable_amount": "45.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d018",
+    "supplier_canonical": "gorgias",
+    "category": "software",
+    "bookable_amount": "60.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d019",
+    "supplier_canonical": "loom",
+    "category": "software",
+    "bookable_amount": "30.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d020",
+    "supplier_canonical": "dhl",
+    "category": "freight",
+    "bookable_amount": "2183.48",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d021",
+    "supplier_canonical": "mercer_hale",
+    "category": "duty",
+    "bookable_amount": "3357.62",
+    "bookable_currency": "USD",
+    "anomalies": [],
+    "why": "Arrives as a phone photo of a printed entry summary."
+  },
+  {
+    "doc_id": "d022",
+    "supplier_canonical": "stripe",
+    "category": "processor_fees",
+    "bookable_amount": "1632.09",
+    "bookable_currency": "USD",
+    "anomalies": [
+      "netted_statement"
+    ],
+    "why": "Only the fee belongs in the books. Gross and payout are on the page and are both larger."
+  },
+  {
+    "doc_id": "d023",
+    "supplier_canonical": "meta",
+    "category": "advertising",
+    "bookable_amount": "6744.12",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d024",
+    "supplier_canonical": "google_ads",
+    "category": "advertising",
+    "bookable_amount": "2855.40",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d025",
+    "supplier_canonical": "shopify",
+    "category": "platform_fees",
+    "bookable_amount": "414.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d026",
+    "supplier_canonical": "pacific_fulfilment",
+    "category": "fulfilment",
+    "bookable_amount": "4406.59",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d027",
+    "supplier_canonical": "klaviyo",
+    "category": "software",
+    "bookable_amount": "45.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d028",
+    "supplier_canonical": "gorgias",
+    "category": "software",
+    "bookable_amount": "60.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d029",
+    "supplier_canonical": "loom",
+    "category": "software",
+    "bookable_amount": "30.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d030",
+    "supplier_canonical": "cera_lusitana",
+    "category": "cogs",
+    "bookable_amount": "2277.00",
+    "bookable_currency": "EUR",
+    "anomalies": [
+      "foreign_currency"
+    ],
+    "why": "Priced in EUR. The books are USD and the document carries no rate."
+  },
+  {
+    "doc_id": "d031",
+    "supplier_canonical": "creator_nadia_okonkwo",
+    "category": "creator_marketing",
+    "bookable_amount": "1200.00",
+    "bookable_currency": "USD",
+    "anomalies": [],
+    "why": "An individual's hand-made invoice. No VAT line, no company number, a four-digit invoice number that restarts every client."
+  },
+  {
+    "doc_id": "d032",
+    "supplier_canonical": "stripe",
+    "category": "processor_fees",
+    "bookable_amount": "1884.77",
+    "bookable_currency": "USD",
+    "anomalies": [
+      "netted_statement"
+    ],
+    "why": "Only the fee belongs in the books. Gross and payout are on the page and are both larger."
+  },
+  {
+    "doc_id": "d033",
+    "supplier_canonical": "meta",
+    "category": "advertising",
+    "bookable_amount": "3980.55",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d034",
+    "supplier_canonical": "google_ads",
+    "category": "advertising",
+    "bookable_amount": "2011.09",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d035",
+    "supplier_canonical": "shopify",
+    "category": "platform_fees",
+    "bookable_amount": "513.00",
+    "bookable_currency": "USD",
+    "anomalies": [
+      "double_billing"
+    ],
+    "why": "April bills Recharge inside the Shopify invoice while Recharge also invoices the card directly the same month. Same service, same period, two channels."
+  },
+  {
+    "doc_id": "d036",
+    "supplier_canonical": "pacific_fulfilment",
+    "category": "fulfilment",
+    "bookable_amount": "3523.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d037",
+    "supplier_canonical": "klaviyo",
+    "category": "software",
+    "bookable_amount": "120.00",
+    "bookable_currency": "USD",
+    "anomalies": [
+      "price_increase"
+    ],
+    "why": "45.00 for three months, then 120.00. Nothing on the April receipt says the price changed."
+  },
+  {
+    "doc_id": "d038",
+    "supplier_canonical": "gorgias",
+    "category": "software",
+    "bookable_amount": "60.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d039",
+    "supplier_canonical": "loom",
+    "category": "software",
+    "bookable_amount": "30.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d040",
+    "supplier_canonical": "shenzhen_lianhe",
+    "category": "cogs",
+    "bookable_amount": "17691.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d041",
+    "supplier_canonical": "recharge",
+    "category": "software",
+    "bookable_amount": "99.00",
+    "bookable_currency": "USD",
+    "anomalies": [
+      "double_billing"
+    ],
+    "why": "The other half of the April double billing. Also charged on the Shopify bill dated 2026-04-05."
+  },
+  {
+    "doc_id": "d042",
+    "supplier_canonical": "dhl",
+    "category": "freight",
+    "bookable_amount": "2619.86",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d043",
+    "supplier_canonical": "mercer_hale",
+    "category": "duty",
+    "bookable_amount": "4137.90",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d044",
+    "supplier_canonical": "stripe",
+    "category": "processor_fees",
+    "bookable_amount": "1451.06",
+    "bookable_currency": "USD",
+    "anomalies": [
+      "netted_statement"
+    ],
+    "why": "Only the fee belongs in the books. Gross and payout are on the page and are both larger."
+  },
+  {
+    "doc_id": "d045",
+    "supplier_canonical": "meta",
+    "category": "advertising",
+    "bookable_amount": "7221.08",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d046",
+    "supplier_canonical": "google_ads",
+    "category": "advertising",
+    "bookable_amount": "3302.66",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d047",
+    "supplier_canonical": "meta",
+    "category": "advertising",
+    "bookable_amount": "6744.12",
+    "bookable_currency": "USD",
+    "anomalies": [
+      "duplicate"
+    ],
+    "why": "Second copy of the same invoice, re-sent by the supplier. Original is the March Meta invoice."
+  },
+  {
+    "doc_id": "d048",
+    "supplier_canonical": "shopify",
+    "category": "platform_fees",
+    "bookable_amount": "414.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d049",
+    "supplier_canonical": "dhl",
+    "category": "freight",
+    "bookable_amount": "-318.40",
+    "bookable_currency": "USD",
+    "anomalies": [
+      "credit_note"
+    ],
+    "why": "Negative total. A system that takes absolute values will book this as a cost and overstate freight by twice the credit."
+  },
+  {
+    "doc_id": "d050",
+    "supplier_canonical": "pacific_fulfilment",
+    "category": "fulfilment",
+    "bookable_amount": "8019.92",
+    "bookable_currency": "USD",
+    "anomalies": [
+      "amount_anomaly"
+    ],
+    "why": "Storage jumps from about 500 to 4100 with no matching change in order volume."
+  },
+  {
+    "doc_id": "d051",
+    "supplier_canonical": "klaviyo",
+    "category": "software",
+    "bookable_amount": "120.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d052",
+    "supplier_canonical": "gorgias",
+    "category": "software",
+    "bookable_amount": "60.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d053",
+    "supplier_canonical": "loom",
+    "category": "software",
+    "bookable_amount": "30.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d054",
+    "supplier_canonical": "creator_brightside",
+    "category": "creator_marketing",
+    "bookable_amount": "1450.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d055",
+    "supplier_canonical": "stripe",
+    "category": "processor_fees",
+    "bookable_amount": "2127.44",
+    "bookable_currency": "USD",
+    "anomalies": [
+      "netted_statement"
+    ],
+    "why": "Only the fee belongs in the books. Gross and payout are on the page and are both larger."
+  },
+  {
+    "doc_id": "d056",
+    "supplier_canonical": "meta",
+    "category": "advertising",
+    "bookable_amount": "6015.73",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d057",
+    "supplier_canonical": "google_ads",
+    "category": "advertising",
+    "bookable_amount": "2944.18",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d058",
+    "supplier_canonical": "shopify",
+    "category": "platform_fees",
+    "bookable_amount": "414.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d059",
+    "supplier_canonical": "pacific_fulfilment",
+    "category": "fulfilment",
+    "bookable_amount": "4672.34",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d060",
+    "supplier_canonical": "klaviyo",
+    "category": "software",
+    "bookable_amount": "120.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d061",
+    "supplier_canonical": "gorgias",
+    "category": "software",
+    "bookable_amount": "60.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d062",
+    "supplier_canonical": "loom",
+    "category": "software",
+    "bookable_amount": "30.00",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d063",
+    "supplier_canonical": "dhl",
+    "category": "freight",
+    "bookable_amount": "1961.65",
+    "bookable_currency": "USD",
+    "anomalies": []
+  },
+  {
+    "doc_id": "d064",
+    "supplier_canonical": "stripe",
+    "category": "processor_fees",
+    "bookable_amount": "1992.18",
+    "bookable_currency": "USD",
+    "anomalies": [
+      "netted_statement"
+    ],
+    "why": "Only the fee belongs in the books. Gross and payout are on the page and are both larger."
+  }
+]

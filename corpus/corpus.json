@@ -1,0 +1,52 @@
+{
+  "store": "Harbour & Pine",
+  "books_currency": "USD",
+  "period": [
+    "2026-01",
+    "2026-06"
+  ],
+  "document_count": 64,
+  "card_charge_count": 52,
+  "cases": {
+    "duplicate": "The March Meta invoice is re-sent in May. Same number, only one charge.",
+    "price_increase": "Klaviyo goes from 45.00 to 120.00 in April with no notice on the receipt.",
+    "double_billing": "Recharge is billed inside the April Shopify invoice and direct to the card.",
+    "missing_receipt": "A 49.00 Zapier charge on the card statement has no document.",
+    "credit_note": "DHL issues a negative credit note against an earlier freight invoice.",
+    "netted_statement": "Six Stripe payouts where only the fee is bookable.",
+    "amount_anomaly": "May storage at the 3PL is about eight times every other month.",
+    "foreign_currency": "One supplier invoice is in EUR against USD books, with no rate printed."
+  },
+  "case_doc_ids": {
+    "amount_anomaly": [
+      "d050"
+    ],
+    "credit_note": [
+      "d049"
+    ],
+    "double_billing": [
+      "d035",
+      "d041"
+    ],
+    "duplicate": [
+      "d047"
+    ],
+    "foreign_currency": [
+      "d030"
+    ],
+    "missing_receipt": [
+      "c052"
+    ],
+    "netted_statement": [
+      "d011",
+      "d022",
+      "d032",
+      "d044",
+      "d055",
+      "d064"
+    ],
+    "price_increase": [
+      "d037"
+    ]
+  }
+}

@@ -1,0 +1,418 @@
+[
+  {
+    "charge_id": "c001",
+    "posted_date": "2026-01-01",
+    "descriptor": "FACEBK *ADS 4QX9",
+    "amount": "4218.44",
+    "currency": "USD",
+    "matching_doc_id": "d001"
+  },
+  {
+    "charge_id": "c002",
+    "posted_date": "2026-01-02",
+    "descriptor": "GOOGLE *ADS 8821",
+    "amount": "2104.10",
+    "currency": "USD",
+    "matching_doc_id": "d002"
+  },
+  {
+    "charge_id": "c003",
+    "posted_date": "2026-01-03",
+    "descriptor": "TIKTOK ADS LON",
+    "amount": "880.00",
+    "currency": "USD",
+    "matching_doc_id": "d003"
+  },
+  {
+    "charge_id": "c004",
+    "posted_date": "2026-01-05",
+    "descriptor": "SHOPIFY* 7741",
+    "amount": "399.00",
+    "currency": "USD",
+    "matching_doc_id": "d004"
+  },
+  {
+    "charge_id": "c005",
+    "posted_date": "2026-01-06",
+    "descriptor": "PACIFIC FULFILMENT PTN",
+    "amount": "3215.02",
+    "currency": "USD",
+    "matching_doc_id": "d005"
+  },
+  {
+    "charge_id": "c006",
+    "posted_date": "2026-01-07",
+    "descriptor": "KLAVIYO INC BOSTON MA",
+    "amount": "45.00",
+    "currency": "USD",
+    "matching_doc_id": "d006"
+  },
+  {
+    "charge_id": "c007",
+    "posted_date": "2026-01-08",
+    "descriptor": "GORGIAS SAN FRANCISCO",
+    "amount": "60.00",
+    "currency": "USD",
+    "matching_doc_id": "d007"
+  },
+  {
+    "charge_id": "c008",
+    "posted_date": "2026-01-14",
+    "descriptor": "CANVA* I-004412",
+    "amount": "300.00",
+    "currency": "USD",
+    "matching_doc_id": "d008"
+  },
+  {
+    "charge_id": "c009",
+    "posted_date": "2026-01-19",
+    "descriptor": "FIGMA MONTHLY",
+    "amount": "16.00",
+    "currency": "USD",
+    "matching_doc_id": "d009"
+  },
+  {
+    "charge_id": "c010",
+    "posted_date": "2026-02-01",
+    "descriptor": "FACEBK *ADS 4QX9",
+    "amount": "5102.90",
+    "currency": "USD",
+    "matching_doc_id": "d012"
+  },
+  {
+    "charge_id": "c011",
+    "posted_date": "2026-02-02",
+    "descriptor": "GOOGLE *ADS 8821",
+    "amount": "2390.77",
+    "currency": "USD",
+    "matching_doc_id": "d013"
+  },
+  {
+    "charge_id": "c012",
+    "posted_date": "2026-02-03",
+    "descriptor": "TIKTOK ADS LON",
+    "amount": "412.35",
+    "currency": "USD",
+    "matching_doc_id": "d014"
+  },
+  {
+    "charge_id": "c013",
+    "posted_date": "2026-02-05",
+    "descriptor": "SHOPIFY* 7741",
+    "amount": "414.00",
+    "currency": "USD",
+    "matching_doc_id": "d015"
+  },
+  {
+    "charge_id": "c014",
+    "posted_date": "2026-02-06",
+    "descriptor": "PACIFIC FULFILMENT PTN",
+    "amount": "3647.48",
+    "currency": "USD",
+    "matching_doc_id": "d016"
+  },
+  {
+    "charge_id": "c015",
+    "posted_date": "2026-02-07",
+    "descriptor": "KLAVIYO INC BOSTON MA",
+    "amount": "45.00",
+    "currency": "USD",
+    "matching_doc_id": "d017"
+  },
+  {
+    "charge_id": "c016",
+    "posted_date": "2026-02-08",
+    "descriptor": "GORGIAS SAN FRANCISCO",
+    "amount": "60.00",
+    "currency": "USD",
+    "matching_doc_id": "d018"
+  },
+  {
+    "charge_id": "c017",
+    "posted_date": "2026-02-09",
+    "descriptor": "LOOM.COM",
+    "amount": "30.00",
+    "currency": "USD",
+    "matching_doc_id": "d019"
+  },
+  {
+    "charge_id": "c018",
+    "posted_date": "2026-02-11",
+    "descriptor": "DHL EXPRESS USA",
+    "amount": "2183.48",
+    "currency": "USD",
+    "matching_doc_id": "d020"
+  },
+  {
+    "charge_id": "c019",
+    "posted_date": "2026-02-14",
+    "descriptor": "MERCER HALE CUSTOMS",
+    "amount": "3357.62",
+    "currency": "USD",
+    "matching_doc_id": "d021"
+  },
+  {
+    "charge_id": "c020",
+    "posted_date": "2026-03-01",
+    "descriptor": "FACEBK *ADS 4QX9",
+    "amount": "6744.12",
+    "currency": "USD",
+    "matching_doc_id": "d023"
+  },
+  {
+    "charge_id": "c021",
+    "posted_date": "2026-03-02",
+    "descriptor": "GOOGLE *ADS 8821",
+    "amount": "2855.40",
+    "currency": "USD",
+    "matching_doc_id": "d024"
+  },
+  {
+    "charge_id": "c022",
+    "posted_date": "2026-03-05",
+    "descriptor": "SHOPIFY* 7741",
+    "amount": "414.00",
+    "currency": "USD",
+    "matching_doc_id": "d025"
+  },
+  {
+    "charge_id": "c023",
+    "posted_date": "2026-03-06",
+    "descriptor": "PACIFIC FULFILMENT PTN",
+    "amount": "4406.59",
+    "currency": "USD",
+    "matching_doc_id": "d026"
+  },
+  {
+    "charge_id": "c024",
+    "posted_date": "2026-03-07",
+    "descriptor": "KLAVIYO INC BOSTON MA",
+    "amount": "45.00",
+    "currency": "USD",
+    "matching_doc_id": "d027"
+  },
+  {
+    "charge_id": "c025",
+    "posted_date": "2026-03-08",
+    "descriptor": "GORGIAS SAN FRANCISCO",
+    "amount": "60.00",
+    "currency": "USD",
+    "matching_doc_id": "d028"
+  },
+  {
+    "charge_id": "c026",
+    "posted_date": "2026-03-09",
+    "descriptor": "LOOM.COM",
+    "amount": "30.00",
+    "currency": "USD",
+    "matching_doc_id": "d029"
+  },
+  {
+    "charge_id": "c052",
+    "posted_date": "2026-03-11",
+    "descriptor": "ZAPIER.COM/CHARGE",
+    "amount": "49.00",
+    "currency": "USD",
+    "matching_doc_id": null
+  },
+  {
+    "charge_id": "c027",
+    "posted_date": "2026-04-01",
+    "descriptor": "FACEBK *ADS 4QX9",
+    "amount": "3980.55",
+    "currency": "USD",
+    "matching_doc_id": "d033"
+  },
+  {
+    "charge_id": "c028",
+    "posted_date": "2026-04-02",
+    "descriptor": "GOOGLE *ADS 8821",
+    "amount": "2011.09",
+    "currency": "USD",
+    "matching_doc_id": "d034"
+  },
+  {
+    "charge_id": "c029",
+    "posted_date": "2026-04-05",
+    "descriptor": "SHOPIFY* 7741",
+    "amount": "513.00",
+    "currency": "USD",
+    "matching_doc_id": "d035"
+  },
+  {
+    "charge_id": "c030",
+    "posted_date": "2026-04-06",
+    "descriptor": "PACIFIC FULFILMENT PTN",
+    "amount": "3523.00",
+    "currency": "USD",
+    "matching_doc_id": "d036"
+  },
+  {
+    "charge_id": "c031",
+    "posted_date": "2026-04-07",
+    "descriptor": "KLAVIYO INC BOSTON MA",
+    "amount": "120.00",
+    "currency": "USD",
+    "matching_doc_id": "d037"
+  },
+  {
+    "charge_id": "c032",
+    "posted_date": "2026-04-08",
+    "descriptor": "GORGIAS SAN FRANCISCO",
+    "amount": "60.00",
+    "currency": "USD",
+    "matching_doc_id": "d038"
+  },
+  {
+    "charge_id": "c033",
+    "posted_date": "2026-04-09",
+    "descriptor": "LOOM.COM",
+    "amount": "30.00",
+    "currency": "USD",
+    "matching_doc_id": "d039"
+  },
+  {
+    "charge_id": "c034",
+    "posted_date": "2026-04-11",
+    "descriptor": "RECHARGE PAYMENTS",
+    "amount": "99.00",
+    "currency": "USD",
+    "matching_doc_id": "d041"
+  },
+  {
+    "charge_id": "c035",
+    "posted_date": "2026-04-15",
+    "descriptor": "DHL EXPRESS USA",
+    "amount": "2619.86",
+    "currency": "USD",
+    "matching_doc_id": "d042"
+  },
+  {
+    "charge_id": "c036",
+    "posted_date": "2026-04-18",
+    "descriptor": "MERCER HALE CUSTOMS",
+    "amount": "4137.90",
+    "currency": "USD",
+    "matching_doc_id": "d043"
+  },
+  {
+    "charge_id": "c037",
+    "posted_date": "2026-05-01",
+    "descriptor": "FACEBK *ADS 4QX9",
+    "amount": "7221.08",
+    "currency": "USD",
+    "matching_doc_id": "d045"
+  },
+  {
+    "charge_id": "c038",
+    "posted_date": "2026-05-02",
+    "descriptor": "GOOGLE *ADS 8821",
+    "amount": "3302.66",
+    "currency": "USD",
+    "matching_doc_id": "d046"
+  },
+  {
+    "charge_id": "c039",
+    "posted_date": "2026-05-05",
+    "descriptor": "SHOPIFY* 7741",
+    "amount": "414.00",
+    "currency": "USD",
+    "matching_doc_id": "d048"
+  },
+  {
+    "charge_id": "c040",
+    "posted_date": "2026-05-06",
+    "descriptor": "PACIFIC FULFILMENT PTN",
+    "amount": "8019.92",
+    "currency": "USD",
+    "matching_doc_id": "d050"
+  },
+  {
+    "charge_id": "c041",
+    "posted_date": "2026-05-07",
+    "descriptor": "KLAVIYO INC BOSTON MA",
+    "amount": "120.00",
+    "currency": "USD",
+    "matching_doc_id": "d051"
+  },
+  {
+    "charge_id": "c042",
+    "posted_date": "2026-05-08",
+    "descriptor": "GORGIAS SAN FRANCISCO",
+    "amount": "60.00",
+    "currency": "USD",
+    "matching_doc_id": "d052"
+  },
+  {
+    "charge_id": "c043",
+    "posted_date": "2026-05-09",
+    "descriptor": "LOOM.COM",
+    "amount": "30.00",
+    "currency": "USD",
+    "matching_doc_id": "d053"
+  },
+  {
+    "charge_id": "c044",
+    "posted_date": "2026-06-01",
+    "descriptor": "FACEBK *ADS 4QX9",
+    "amount": "6015.73",
+    "currency": "USD",
+    "matching_doc_id": "d056"
+  },
+  {
+    "charge_id": "c045",
+    "posted_date": "2026-06-02",
+    "descriptor": "GOOGLE *ADS 8821",
+    "amount": "2944.18",
+    "currency": "USD",
+    "matching_doc_id": "d057"
+  },
+  {
+    "charge_id": "c046",
+    "posted_date": "2026-06-05",
+    "descriptor": "SHOPIFY* 7741",
+    "amount": "414.00",
+    "currency": "USD",
+    "matching_doc_id": "d058"
+  },
+  {
+    "charge_id": "c047",
+    "posted_date": "2026-06-06",
+    "descriptor": "PACIFIC FULFILMENT PTN",
+    "amount": "4672.34",
+    "currency": "USD",
+    "matching_doc_id": "d059"
+  },
+  {
+    "charge_id": "c048",
+    "posted_date": "2026-06-07",
+    "descriptor": "KLAVIYO INC BOSTON MA",
+    "amount": "120.00",
+    "currency": "USD",
+    "matching_doc_id": "d060"
+  },
+  {
+    "charge_id": "c049",
+    "posted_date": "2026-06-08",
+    "descriptor": "GORGIAS SAN FRANCISCO",
+    "amount": "60.00",
+    "currency": "USD",
+    "matching_doc_id": "d061"
+  },
+  {
+    "charge_id": "c050",
+    "posted_date": "2026-06-09",
+    "descriptor": "LOOM.COM",
+    "amount": "30.00",
+    "currency": "USD",
+    "matching_doc_id": "d062"
+  },
+  {
+    "charge_id": "c051",
+    "posted_date": "2026-06-12",
+    "descriptor": "DHL EXPRESS USA",
+    "amount": "1961.65",
+    "currency": "USD",
+    "matching_doc_id": "d063"
+  }
+]
