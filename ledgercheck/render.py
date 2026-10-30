@@ -119,7 +119,7 @@ TITLES = {
 
 def _render_pdf_bytes(doc: Document) -> bytes:
     buf = io.BytesIO()
-    c = pdfcanvas.Canvas(buf, pagesize=A4)
+    c = pdfcanvas.Canvas(buf, pagesize=A4, invariant=1)
     y = _header(c, doc, TITLES.get(doc.doc_type, "Invoice"))
 
     if doc.doc_type == "payout_statement":
